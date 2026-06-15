@@ -10,8 +10,7 @@
 ---
 
 ## 💡 About Me  
-I’m a cybersecurity student passionate about protecting digital ecosystems from evolving threats.  
-My expertise includes **network defense**, **ethical hacking**, and **vulnerability management** — with hands-on experience using tools like *Wireshark*, *Nmap*, and *Nessus*.  
+Cybersecurity graduate with hands-on experience in incident response, penetration testing, network security, and threat analysis through internships and security projects. Seeking opportunities in Cybersecurity, IT Support or Network Security.  
 I enjoy blending **AI and cybersecurity** to create innovative and secure systems.
 
 ---
@@ -20,7 +19,7 @@ I enjoy blending **AI and cybersecurity** to create innovative and secure system
 
 **🎓 K.S.R. Institute for Engineering and Technology**  
 _B.E. in Computer Science (Cyber Security)_  
-📅 2022–2026 | 🎯 CGPA: 8.01  
+📅 2022–2026 | 🎯 CGPA: 8.0  
 
 **🏫 GOVT. Model Higher Secondary School, Anthiyur**  
 _Higher Secondary Course (HSC)_  
@@ -34,7 +33,7 @@ _Higher Secondary Course (HSC)_
 ## 🧰 Skills  
 
 **🔧 Tools:**  
-Nmap · Wireshark · Nessus  
+Nmap · Wireshark · Nessus 
 
 **📚 Frameworks:**  
 COBIT · CIS  
