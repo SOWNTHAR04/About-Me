@@ -1,10 +1,10 @@
+<h1 align="center">Hi 👋, I'm Sownthar S</h1>
 <p align="center">
   <a href="https://github.com/SOWNTHAR04">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2000&color=0DD6FF&center=true&vCenter=true&width=760&height=90&lines=Aspiring+Cybersecurity+Engineer;🔐+Penetration+Tester;🧠+AI+%26+Security+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2000&color=0DD6FF&center=true&vCenter=true&width=760&height=90&lines=Cybersecurity+Engineer;🔐+Penetration+Tester;🧠+AI+%26+Security+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sownthar S</h1>
 
 <h3 align="center">
 Cybersecurity Student | Ethical Hacker | Network Security Enthusiast
@@ -16,51 +16,81 @@ Cybersecurity Student | Ethical Hacker | Network Security Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 B.E. CSE (Cyber Security) – K.S.R Institute for Engineering and Technology
-- 🔍 Interested in Network Security, Penetration Testing, Ethical Hacking, and Prompt Engineering
-- 🛡️ Experience in Cyber Incident Response and Security Testing
-- 🌱 Currently learning Advanced Cybersecurity and AI Security
-- 📍 Anthiyur, Tamil Nadu, India
+🔐 Passionate about Cybersecurity, Ethical Hacking and Penetration Testing
+
+🎓 B.E CSE - Cyber Security
+
+🛡️ Intern at Cyber Crime Department & CyTI Centre
+
+🌱 Currently learning:
+- Advanced Penetration Testing
+- AI Security
+- Threat Hunting
+- Cloud Security
+
+💡 Interested in:
+- Network Security
+- Vulnerability Assessment
+- Incident Response
+- AI Security
+- Prompt Engineering
+
+📫 Reach me at:
+**ssownther04@gmail.com**
 
 ---
 
-## 🛠️ Technical Skills
+## 🌐 Connect With Me
 
-### Security Tools
-- Nmap
-- Wireshark
-- Burp Suite
-- Nessus
+<p align="left">
+<a href="https://github.com/SOWNTHAR04">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.linkedin.com/in/sownthar-s-216326338">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:ssownther04@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
+</p>
 
 ### Operating Systems
-- Windows
-- Kali Linux
-- Linux
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,windows" />
+</p>
+
+### Cybersecurity Tools
+
+```text
+Nmap
+Wireshark
+Burp Suite
+Nessus
+Metasploit
+OWASP
+Kali Linux
 
 ### Networking
-- TCP/IP
-- DNS
-- DHCP
-- VPN
-- Firewall
-- IDS/IPS
 
-### Programming Languages
-- Python
-- Java
-- JavaScript
-- SQL
-- HTML
-- CSS
-
-### Security Frameworks
-- ISO 27001
-- CIS Controls
-- COBIT
-
----
+TCP/IP
+DNS
+DHCP
+VPN
+Firewall
+IDS/IPS
 
 ## 💼 Experience
 
@@ -117,16 +147,6 @@ Machine Learning powered web security scanner capable of detecting:
 
 - ⭐ HackerRank – 4 Star in Java
 - 🔐 APISecUniversity – API Security Penetration Testing Badge
-
----
-
-## 📫 Connect With Me
-
-- Email: ssownther04@gmail.com
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
 
 ## ⚡ Motto
 
