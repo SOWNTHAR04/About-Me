@@ -1,8 +1,18 @@
-# Hi 👋, I'm Sownthar S
+<p align="center">
+  <a href="https://github.com/SOWNTHAR04">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2000&color=0DD6FF&center=true&vCenter=true&width=760&height=90&lines=Aspiring+Cybersecurity+Engineer;🔐+Penetration+Tester;🧠+AI+%26+Security+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="center"> <a href="https://github.com/SOWNTHAR04"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2000&color=0DD6FF&center=true&vCenter=true&width=760&height=90&lines=Aspiring+Cybersecurity+Engineer;🔐+Penetration+Tester;🧠+AI+%26+Security+Enthusiast" alt="Typing SVG" /> </a> </p>
+<h1 align="center">Hi 👋, I'm Sownthar S</h1>
 
-Cybersecurity graduate with hands-on experience in incident response, penetration testing, network security, and threat analysis through internships and security projects. Passionate about identifying vulnerabilities, securing systems, and developing security-focused solutions.
+<h3 align="center">
+Cybersecurity Student | Ethical Hacker | Network Security Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SOWNTHAR04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
