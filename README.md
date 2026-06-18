@@ -57,40 +57,41 @@ Cybersecurity Student | Ethical Hacker | Network Security Enthusiast
 </p>
 
 ---
+## 🛠️ Technical Skills
 
-## ⚡ Tech Stack
-
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
-</p>
+### Security Tools
+- Nmap
+- Wireshark
+- Burp Suite
+- Nessus
 
 ### Operating Systems
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali,windows" />
-</p>
-
-### Cybersecurity Tools
-
-```text
-Nmap
-Wireshark
-Burp Suite
-Nessus
-Metasploit
-OWASP
-Kali Linux
+- Windows
+- Kali Linux
+- Linux
 
 ### Networking
+- TCP/IP
+- DNS
+- DHCP
+- VPN
+- Firewall
+- IDS/IPS
 
-TCP/IP
-DNS
-DHCP
-VPN
-Firewall
-IDS/IPS
+### Programming Languages
+- Python
+- Java
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Security Frameworks
+- ISO 27001
+- CIS Controls
+- COBIT
+
+---
 
 ## 💼 Experience
 
@@ -122,6 +123,31 @@ IDS/IPS
 ### 🔹 BT DoS Attack Simulation
 Demonstrated how Bluetooth traffic flooding can disrupt device connectivity.
 
+### 🔹 AES-GCM Ransomware Simulation
+Security awareness project showcasing modern encryption techniques and ransomware behavior in a controlled environment.
+
+### 🔹 WebRaptor – AI Vulnerability Scanner
+Machine Learning powered web security scanner capable of detecting:
+- XSS Vulnerabilities
+- Security Misconfigurations
+- Automated Risk Insights
+
+---
+
+## 🏆 Certifications
+
+- Cisco Cyber Security Essentials
+- MongoDB University Network Security Atlas
+- Tata Cyber Security Analyst
+- Securiti AI Security & Governance
+- Fortinet Certified Associate
+
+---
+
+## 🏅 Achievements
+
+- ⭐ HackerRank – 4 Star in Java
+- 🔐 APISecUniversity – API Security Penetration Testing Badge
 ### 🔹 AES-GCM Ransomware Simulation
 Security awareness project showcasing modern encryption techniques and ransomware behavior in a controlled environment.
 
