@@ -140,30 +140,6 @@ Machine Learning powered web security scanner capable of detecting:
 
 ---
 
-## 🏅 Achievements
-
-- ⭐ HackerRank – 4 Star in Java
-- 🔐 APISecUniversity – API Security Penetration Testing Badge
-### 🔹 AES-GCM Ransomware Simulation
-Security awareness project showcasing modern encryption techniques and ransomware behavior in a controlled environment.
-
-### 🔹 WebRaptor – AI Vulnerability Scanner
-Machine Learning powered web security scanner capable of detecting:
-- XSS Vulnerabilities
-- Security Misconfigurations
-- Automated Risk Insights
-
----
-
-## 🏆 Certifications
-
-- Cisco Cyber Security Essentials
-- MongoDB University Network Security Atlas
-- Tata Cyber Security Analyst
-- Securiti AI Security & Governance
-- Fortinet Certified Associate
-
----
 
 ## 🏅 Achievements
 
